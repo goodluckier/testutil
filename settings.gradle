@@ -9,3 +9,4 @@ dependencyResolutionManagement {
 rootProject.name = "testutil"
 include ':app'
 include ':util'
+include ':util2'
